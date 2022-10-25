@@ -19,8 +19,8 @@ Global
 		{D42B9395-E666-41AD-9802-072C03899558}.Debug|x86.Build.0 = Debug|Win32
 		{D42B9395-E666-41AD-9802-072C03899558}.Release|x64.ActiveCfg = Release|x64
 		{D42B9395-E666-41AD-9802-072C03899558}.Release|x64.Build.0 = Release|x64
-		{D42B9395-E666-41AD-9802-072C03899558}.Release|x86.ActiveCfg = Release|Win32
-		{D42B9395-E666-41AD-9802-072C03899558}.Release|x86.Build.0 = Release|Win32
+		{D42B9395-E666-41AD-9802-072C03899558}.Release|x86.ActiveCfg = Release|x64
+		{D42B9395-E666-41AD-9802-072C03899558}.Release|x86.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
